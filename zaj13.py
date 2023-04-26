@@ -1,7 +1,7 @@
 import random
 ilosc_parzystych=0
-for i in range(10):
-    wylosowana=random.randint(1,20)
+for i in range(20):
+    wylosowana=random.randint(1,100)
     print(wylosowana)
     if wylosowana % 2==0:
         ilosc_parzystych+=1

@@ -6,3 +6,5 @@ for i in range(20):
     if wylosowana % 2==0:
         ilosc_parzystych+=1
 print("parzyste liczby pojawiły się", ilosc_parzystych, "razy")
+
+print("Siema, lolololo")
